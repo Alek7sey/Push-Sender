@@ -1,0 +1,3 @@
+package ru.netology.pusher
+
+const val token = "dgH0tmwcQbugTp0kYmBrm9:APA91bH4tehBwpxQRTT5ufsuD8kZba2jxVRAAPhZQ5HZ4L14n9-IvzrPd5eVOCkbUqBdZQBnP8TG5ma2p-qPXC81VJcoZREza6KYngTgNVw-YFFp1aKC_EExmHdCwPtG7O2vaEXJBBGl"
