@@ -18,6 +18,7 @@ build/
 *.iml
 *.ipr
 out/
+fcm.json
 
 ### Android Studio ###
 local.properties
