@@ -29,7 +29,7 @@ fun main() {
         .build()
 
     val newMessage = Message.builder()
-        .putData("action", "NEW2")
+        .putData("action", "NEW")
         .putData(
             "content", """{
           "userId": 3,
